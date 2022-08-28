@@ -45,11 +45,13 @@ h2 {
 
 .a {
     text-decoration: none;
+    padding: 20px;
 }
 
 a:hover {
     border-style: solid;
     border-color: #66ff00;
+    border-width: 5px;
 }
 
 ol {
